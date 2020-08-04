@@ -1,4 +1,4 @@
-// Q2 Design Hashset
+# Q2 Design Hashset
 
 class MyHashSet:
 
