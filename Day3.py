@@ -1,4 +1,4 @@
-//Q3 Valid Pallindrome
+# Q3 Valid Pallindrome
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
