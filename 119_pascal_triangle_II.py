@@ -1,4 +1,7 @@
-#Pascal's Triangle II
+'''Given an integer rowIndex, return the rowIndexth row of the Pascal's triangle.
+Notice that the row index starts from 0.'''
+
+
 
 class Solution:
     def getRow(self, rowIndex):
